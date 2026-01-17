@@ -62,4 +62,4 @@ Build a **production-grade fraud detection system** that:
 ---
 
 ## System Architecture
-![Pipeline](media/IMG02.png)
+![Pipeline](media/IMG02.jpg)
